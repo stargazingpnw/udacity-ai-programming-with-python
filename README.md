@@ -15,6 +15,7 @@ Principal Objectives
 
 ### 2. Developing an Image Classifier with Deep Learning (Part 1)
 Training an image classifier using PyTorch.
+This project uses the 102 Category Flower Dataset(https://www.robots.ox.ac.uk/~vgg/data/flowers/102/). To run locally, download the dataset and place it in the flowers/ directory.
 
 The project is broken down into multiple steps:
 - Load and preprocess the image dataset
